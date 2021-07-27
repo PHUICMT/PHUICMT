@@ -1,4 +1,4 @@
-<p align="center">
+
 ### Hi there 👋, my name is Undaman
 
 
@@ -18,7 +18,6 @@ Skills: C / C++ / C# / JAVA / Python / HTML / CSS / PHP / .NET Core / React JS /
 <strong>💡 My Languages :</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHUICMT&langs_count_private=true&theme=radical&card_width=445)<br><br>
   
-</p>
 
 <!--
 **PHUICMT/PHUICMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
