@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Undaman
 
 
-Skills: C / C++ / C# / JAVA / Python / HTML / CSS / PHP / .NET Core / React JS / Linux
+Skills: JAVA / Python / C / C++ / C# / JavaScript / CSS / SQL/ OOP / Git / Docker / Kubernetes / Linux / REST API / Flask / GitHub Actions / .NET Core / ReactJS / ElasticSearch
 
 
 
