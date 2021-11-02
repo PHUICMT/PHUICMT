@@ -18,14 +18,14 @@ Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height='20'/> Docker
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height='20'/> Kubernetes
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='20'/> Linux
-REST API
-GitHub Actions
+<img src="https://pubhub.devnetcloud.com/media/finesse/site/images/rest-icon.png" height='20'/> REST API
+<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"  height='20'/> GitHub Actions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  height='20'/> Flask
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='20'/> .NET Core
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='20'/>ReactJS
-ElasticSearch
-Android Espresso
-RabbitMQ
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='20'/> ReactJS
+<img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" height='20'/> ElasticSearch
+<img src="https://miro.medium.com/max/600/1*Z2iFvuo4pMsK-aYhPkiGWA.png" height='20'/> Android Espresso
+<img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height='20'/> RabbitMQ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  height='20'/> Arduino
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='20'/> Figma
 
