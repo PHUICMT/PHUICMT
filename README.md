@@ -41,9 +41,9 @@
 ----
 
 <center>
-<a href="https://github.com/PHUICMT"><img src="https://i.imgur.com/blGV46l.png" alt='github' height='40'></a>
-<a href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
-<a href="https://www.youtube.com/channel//user/PHU_ICMT"><img src="https://i.imgur.com/foLgDQd.png" alt='YouTube' height='40'></a>
+<a align="center" href="https://github.com/PHUICMT"><img src="https://i.imgur.com/blGV46l.png" alt='github' height='40'></a>
+<a align="center" href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
+<a align="center" href="https://www.youtube.com/channel//user/PHU_ICMT"><img src="https://i.imgur.com/foLgDQd.png" alt='YouTube' height='40'></a>
 </center>
 
 
