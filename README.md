@@ -4,7 +4,7 @@
 ---
 <center>
 <b>Skills</b>
-<table>
+<table align="center">
 <td>
 	<td>
 		<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/> JAVA
