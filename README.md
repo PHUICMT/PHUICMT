@@ -3,7 +3,7 @@
 
 ---
 <center>
-<b>Skills</b>
+<b>Experience</b>
 <table align="center">
 <td>
 	<td>
