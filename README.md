@@ -14,7 +14,7 @@
 	
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://64.media.tumblr.com/e0f65f39786c11aa33c9ecb5cb52117d/58ac5c089ad7d0af-21/s400x600/6a5fcaac2540012c5ded6377413807a36beced61.png" />
 
 
 - 🔭 I’m currently working as a Android developer at ODDS
