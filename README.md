@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "" src="https://i.imgur.com/9rBvh82.png" alt="cover" />
+<img width="100%"  src="https://i.imgur.com/9rBvh82.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -12,7 +12,7 @@
 <div size='20px'> Hi! My name is Undaman Nopnapaporn. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 	
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
@@ -26,6 +26,8 @@
 - 💬 Talk to me about Python, JavaScript, React, Android Kotlin... 
 	
 <h2> Experience <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
+<div style="white-space: nowrap">
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='20'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='20'/></a>
@@ -51,9 +53,9 @@
 <a><img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height='20'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  height='20'/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='20'/></a>
-	
+</div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/Undaman Nopnapaporn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/PHUICMT'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 	
