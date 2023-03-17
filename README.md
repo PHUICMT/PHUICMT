@@ -3,7 +3,9 @@
 <img width="100%"  src="img/header.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
+	<!--About me: start-->
+<img src="img/hi_there.png">
 <p align='center'>
 
 ![Profile views](https://gpvc.arturio.dev/PHUICMT)
