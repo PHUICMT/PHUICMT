@@ -64,7 +64,7 @@
 	
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px' height=32px> </h2>
 
-<div align="center">	
+<div align="center" style="white-space: nowrap">	
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PHUICMT&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 	
