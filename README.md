@@ -64,10 +64,11 @@
 	
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px' height=32px> </h2>
 
-	
+<div align="center">	
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PHUICMT&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PHUICMT&theme=radical&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHUICMT&langs_count_private=true&theme=radical&card_width=445)<br><br>
+	</div>
