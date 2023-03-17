@@ -4,13 +4,11 @@
 </div>
 
 
-	<!--About me: start-->
 <img src="img/hi_there.png">
-<p align='center'>
 
 ![Profile views](https://gpvc.arturio.dev/PHUICMT)
 
-</p>
+
 <div size='20px'> Hi! My name is Undaman Nopnapaporn. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 	
