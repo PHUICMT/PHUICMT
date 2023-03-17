@@ -57,10 +57,19 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px"> </h2>
 <div align="center" style="white-space: nowrap">
-<a align="center" href="https://github.com/PHUICMT"><img src="https://i.imgur.com/blGV46l.png" alt='github' height='40'></a>
-<a align="center" href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
-<a align="center" href="https://www.youtube.com/channel//user/PHU_ICMT"><img src="https://i.imgur.com/foLgDQd.png" alt='YouTube' height='40'></a>
-</div>
+<!--Social Links Badges: start-->
+
+<a href="https://github.com/PHUICMT">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+<a href="https://www.youtube.com/channel//user/PHU_ICMT">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<!--Social Links Badges: end-->
 	
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px' height=32px> </h2>
 
