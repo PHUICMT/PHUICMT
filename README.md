@@ -70,9 +70,6 @@
 </a>
 
 <!--Social Links Badges: end-->
-	
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px' height=32px> </h2>
-
 <div align="center" style="white-space: nowrap">	
 
 <!--Statistics: start-->
