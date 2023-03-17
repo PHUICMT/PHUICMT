@@ -29,16 +29,12 @@
 
 **I can learn new language , framework , library , and tool very fast.**
 <div align="center" style="white-space: nowrap">	
-<h3> Languages </h3>
 <a><img src="img/lang/kotlin.svg" height='30'/></a>
 <a><img src="img/lang/python.svg" height='30'/></a>
 <a><img src="img/lang/javascript.svg"  height='30'/></a>
 <a><img src="img/lang/java.svg" height='30'/></a>
 <a><img src="img/lang/c.svg" height='30'/></a>
 <a><img src="img/lang/dart.svg" height='30'/></a> 
-
-<br>
-<h3> Frameworks </h3>
 <a><img src="img/lang/react.svg" height='30'/></a>
 <a><img src="img/lang/nodejs.svg" height='30'/></a>
 <a><img src="img/lang/rest.png" height='30'/></a>
@@ -48,15 +44,9 @@
 <a><img src="img/lang/sqlite.webp" height='30'/></a>
 <a><img src="img/lang/firebase.svg" height='30'/></a>
 <a><img src="img/lang/flask.svg"  height='30'/></a>
-
-<br>
-<h3> CSS frameworks </h3>
 <a><img src="img/lang/bootstrap.svg" height='30'/></a>
 <a><img src="img/lang/materialui.svg" height='30'/></a>
 <a><img src="img/lang/tailwind.svg"  height='30'/></a>
-
-<br>
-<h3> Tools </h3>
 <a><img src="img/lang/androidstudio.svg" height='30'/></a>
 <a><img src="img/lang/visualstudio.svg" height='30'/></a>
 <a><img src="img/lang/git.svg"  height='30'/></a>
@@ -76,16 +66,10 @@
 <a><img src="img/lang/illustrator.svg" height='30'/></a>
 <a><img src="img/lang/digitalocean.svg" height='30'/></a>
 <a><img src="img/lang/nipa.png" height='30'/></a>
-
-<br>
-<h3> And More... </h3>
 <a><img src="img/lang/css3.svg" height='30'/></a>
 <a><img src="img/lang/sass.svg" height='30'/></a>
 <a><img src="img/lang/tensorflow.svg" height='30'/></a>
 <a><img src="img/lang/opencv.svg" height='30'/></a>
-
-<br>
-<h3> And Other <h3>
 <a><img src="img/lang/unity.svg" height='30'/></a>
 <a><img src="img/lang/aftereffects.svg" height='30'/></a>
 <a><img src="img/lang/davinci_resolve.svg" height='30'/></a>
