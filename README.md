@@ -17,9 +17,9 @@
 <img width="55%" align="right" alt="Github" src="https://media.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif" />
 
 
-- 🔭 I’m currently working as a Android developer at ODDS <img width="20px" alt="Github" src="https://i.imgur.com/sG1R8oQ.png" />
+- 🔭 I’m currently working as a Android developer at ODDS<img width="20px" alt="Github" src="https://i.imgur.com/sG1R8oQ.png" />
 
-- 🌱 I'm studying in Master of Science INFORMATION TECHNOLOGY AND DIGITAL INNOVATION.
+- 🌱 I'm studying in Master of Science Information Technology and Digital Innovation.
 
 - 💬 I'm currently learning Japanese.
 
