@@ -9,55 +9,91 @@
 ![Profile views](https://gpvc.arturio.dev/PHUICMT)
 
 
-<div size='20px'> Hi! My name is Undaman Nopnapaporn. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Undaman Nopnapaporn. Thank You for taking the time to view my GitHub Profile 😉
 </div>
 	
 <h2> About Me </h2>
 
-<img width="40%" align="right" alt="Github" src="https://media.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif" />
+<img width="40%" align="right" alt="Github" src="img/gif/shima_rin.gif" />
 
 
-- 🔭 I’m currently working as a Android developer at ODDS <img width="20px" alt="Github" src="img/odds.png" />
+- 📱 Android Developer at ODDS <img width="20px" alt="Github" src="img/odds.png" />
 
-- 🌱 I'm studying in Master of Science Information Technology and Digital Innovation.
+- 📚 I'm studying in Master of Science Information Technology and Digital Innovation.
 
-- 💬 I'm currently learning Japanese.
+- ⛩️ I'm currently learning Japanese.
 
 - 💬 Talk to me about Python, JavaScript, React, Android Kotlin... 
 	
-<h2> Experience <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2> Experience <img src = "img/gif/code.gif" width = 32px height=32px> </h2>
 
-<div align="center" style="white-space: nowrap">
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='20'/></a>
-<a><img src="https://pubhub.devnetcloud.com/media/finesse/site/images/rest-icon.png" height='20'/></a>
-<a><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"  height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='20'/></a>
-<a><img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" height='20'/></a>
-<a><img src="https://miro.medium.com/max/600/1*Z2iFvuo4pMsK-aYhPkiGWA.png" height='20'/></a>
-<a><img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  height='20'/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='20'/></a>
-</div>
+**I can learn new language , framework , library , and tool very fast.**
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px"> </h2>
-<div align="center" style="white-space: nowrap">
+<h3> Languages </h3>
+<a><img src="img/lang/kotlin.svg" height='30'/></a>
+<a><img src="img/lang/python.svg" height='30'/></a>
+<a><img src="img/lang/javascript.svg"  height='30'/></a>
+<a><img src="img/lang/java.svg" height='30'/></a>
+<a><img src="img/lang/c.svg" height='30'/></a>
+<a><img src="img/lang/dart.svg" height='30'/></a> 
+
+
+<h3> Frameworks </h3>
+<a><img src="img/lang/react.svg" height='30'/></a>
+<a><img src="img/lang/nodejs.svg" height='30'/></a>
+<a><img src="img/lang/rest.png" height='30'/></a>
+<a><img src="img/lang/express.png" height='30'/></a>
+<a><img src="img/lang/mongodb.svg" height='30'/></a>
+<a><img src="img/lang/mysql.svg" height='30'/></a>
+<a><img src="img/lang/sqlite.webp" height='30'/></a>
+<a><img src="img/lang/firebase.svg" height='30'/></a>
+<a><img src="img/lang/flask.svg"  height='30'/></a>
+
+<h3> CSS frameworks </h3>
+<a><img src="img/lang/bootstrap.svg" height='30'/></a>
+<a><img src="img/lang/materialui.svg" height='30'/></a>
+<a><img src="img/lang/tailwind.svg"  height='30'/></a>
+
+
+<h3> Tools </h3>
+<a><img src="img/lang/androidstudio.svg" height='30'/></a>
+<a><img src="img/lang/visualstudio.svg" height='30'/></a>
+<a><img src="img/lang/git.svg"  height='30'/></a>
+<a><img src="img/lang/github.svg" height='30'/></a>
+<a><img src="img/lang/gitlab.svg" height='30'/></a>
+<a><img src="img/lang/bitbucket.png" height='30'/></a>
+<a><img src="img/lang/trello.svg" height='30'/></a>
+<a><img src="img/lang/jira.svg" height='30'/></a>
+<a><img src="img/lang/confluence.svg" height='30'/></a>
+<a><img src="img/lang/miro.png" height='30'/></a>
+<a><img src="img/lang/linux.svg" height='30'/></a>
+<a><img src="img/lang/docker.svg" height='30'/></a>
+<a><img src="img/lang/kubernetes.svg" height='30'/></a>
+<a><img src="img/lang/jenkins.svg" height='30'/></a>
+<a><img src="img/lang/figma.svg" height='30'/></a>
+<a><img src="img/lang/photoshop.svg" height='30'/></a>
+<a><img src="img/lang/illustrator.svg" height='30'/></a>
+<a><img src="img/lang/nipa.png" height='30'/></a>
+
+
+<h3> And More... </h3>
+<a><img src="img/lang/css3.svg" height='30'/></a>
+<a><img src="img/lang/sass.svg" height='30'/></a>
+<a><img src="img/lang/tensorflow.svg" height='30'/></a>
+<a><img src="img/lang/opencv.svg" height='30'/></a>
+
+
+<h3> And Other <h3>
+<a><img src="img/lang/unity.svg" height='30'/></a>
+<a><img src="img/lang/aftereffects.svg" height='30'/></a>
+<a><img src="img/lang/davinci_resolve.svg" height='30'/></a>
+
+
 <!--Social Links Badges: start-->
+<hr>
+<h2> Connect with me <img src='img/gif/handShake.gif' width="50px"> </h2>
+<div align="center" style="white-space: nowrap">
+
 
 <a href="https://github.com/PHUICMT">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -68,11 +104,12 @@
 <a href="https://www.youtube.com/channel//user/PHU_ICMT">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-
 <!--Social Links Badges: end-->
-<div align="center" style="white-space: nowrap">	
 
 <!--Statistics: start-->
+<div align="center" style="white-space: nowrap">	
+<hr>
+
 
 <img src="img/statistics.png">
 
