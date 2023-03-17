@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%"  src="https://i.imgur.com/9rBvh82.png" alt="cover" />
+<img width="100%"  src="https://i.imgur.com/LYw1mkH.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://media.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif" />
 
 
-- 🔭 I’m currently working as a Android developer at ODDS <img width="20px" alt="Github" style="border-radius: 50" src="https://i.imgur.com/TGGUrvg.jpg" />
+- 🔭 I’m currently working as a Android developer at ODDS <img width="20px" alt="Github" src="https://i.imgur.com/sG1R8oQ.png" />
 
 - 🌱 I'm studying in Master of Science INFORMATION TECHNOLOGY AND DIGITAL INNOVATION.
 
