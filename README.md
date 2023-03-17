@@ -74,7 +74,3 @@
   <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHUICMT&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
 <!--Statistics: end-->
-
-<strong>💡 My Languages :</strong><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHUICMT&langs_count_private=true&theme=radical&card_width=445)<br><br>
-	</div>
