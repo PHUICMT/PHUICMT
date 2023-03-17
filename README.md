@@ -14,10 +14,10 @@
 	
 <h2> About Me </h2>
 
-<img width="50%" align="right" alt="Github" src="https://media.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif" />
+<img width="40%" align="right" alt="Github" src="https://media.tenor.com/j0cRhrC6r6IAAAAC/yuru-camp-shima-rin.gif" />
 
 
-- 🔭 I’m currently working as a Android developer at ODDS<img width="20px" alt="Github" src="img/odds.png" />
+- 🔭 I’m currently working as a Android developer at ODDS <img width="20px" alt="Github" src="img/odds.png" />
 
 - 🌱 I'm studying in Master of Science Information Technology and Digital Innovation.
 
