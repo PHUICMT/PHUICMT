@@ -58,21 +58,27 @@
 <h3> Tools </h3>
 <a><img src="img/lang/androidstudio.svg" height='30'/></a>
 <a><img src="img/lang/visualstudio.svg" height='30'/></a>
+
 <a><img src="img/lang/git.svg"  height='30'/></a>
 <a><img src="img/lang/github.svg" height='30'/></a>
 <a><img src="img/lang/gitlab.svg" height='30'/></a>
 <a><img src="img/lang/bitbucket.png" height='30'/></a>
+
 <a><img src="img/lang/trello.svg" height='30'/></a>
 <a><img src="img/lang/jira.svg" height='30'/></a>
 <a><img src="img/lang/confluence.svg" height='30'/></a>
 <a><img src="img/lang/miro.png" height='30'/></a>
+
 <a><img src="img/lang/linux.svg" height='30'/></a>
 <a><img src="img/lang/docker.svg" height='30'/></a>
-<a><img src="img/lang/kubernetes.svg" height='30'/></a>
 <a><img src="img/lang/jenkins.svg" height='30'/></a>
+<a><img src="img/lang/kubernetes.svg" height='30'/></a>
+
 <a><img src="img/lang/figma.svg" height='30'/></a>
 <a><img src="img/lang/photoshop.svg" height='30'/></a>
 <a><img src="img/lang/illustrator.svg" height='30'/></a>
+
+<a><img src="img/lang/digitalocean.svg" height='30'/></a>
 <a><img src="img/lang/nipa.png" height='30'/></a>
 
 
