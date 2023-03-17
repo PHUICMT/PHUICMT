@@ -87,7 +87,7 @@
 <a href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="https://www.youtube.com/channel//user/PHU_ICMT">
+<a href="https://www.youtube.com/@PHUICMT/">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 <!--Social Links Badges: end-->
