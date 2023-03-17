@@ -56,11 +56,11 @@
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px"> </h2>
-<center>
+<div align="center" style="white-space: nowrap">
 <a align="center" href="https://github.com/PHUICMT"><img src="https://i.imgur.com/blGV46l.png" alt='github' height='40'></a>
 <a align="center" href="https://www.linkedin.com/in/undaman-nopnapaporn-8b8305149/"><img src="https://i.imgur.com/a5jDgN0.png" alt='linkedin' height='40'></a>
 <a align="center" href="https://www.youtube.com/channel//user/PHU_ICMT"><img src="https://i.imgur.com/foLgDQd.png" alt='YouTube' height='40'></a>
-</center>
+</div>
 	
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px' height=32px> </h2>
 
