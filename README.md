@@ -7,8 +7,6 @@
 
 <img src="img/hi_there.png">
 
-![Profile views](https://gpvc.arturio.dev/PHUICMT)
-
 
 <div size='20px'> Hi! My name is Undaman Nopnapaporn. Thank You for taking the time to view my GitHub Profile 😉
 </div>
