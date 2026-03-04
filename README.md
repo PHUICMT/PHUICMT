@@ -16,7 +16,7 @@
 <img width="40%" align="right" alt="Github" src="img/gif/shima_rin.gif" />
 
 
-- 📱 Android Developer at ODDS <img width="20px" alt="Github" src="img/odds.png" />
+- 📱 Developer at ODDS <img width="20px" alt="Github" src="img/odds.png" />
 
 - 📚 I'm studying in Master of Science Information Technology and Digital Innovation.
 
