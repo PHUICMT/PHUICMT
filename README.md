@@ -1,5 +1,5 @@
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8LOYIR)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PHUICMT) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8LOYIR)
 <div align="center">
 <img width="100%"  src="img/header.png" alt="cover" />
 </div>
@@ -88,6 +88,9 @@
 </a>
 <a href="https://www.youtube.com/@PHUICMT/">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://github.com/sponsors/PHUICMT">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white">
 </a>
 
 <!--Social Links Badges: end-->
