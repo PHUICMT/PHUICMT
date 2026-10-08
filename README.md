@@ -106,3 +106,7 @@
   <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHUICMT&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
 <!--Statistics: end-->
+
+<hr>
+
+<sub>🎨 Profile picture art by <b>ringo</b> · 「初めてのキャンプの思い出」 on <a href="https://www.pixiv.net/en/artworks/87045241">pixiv</a>. All rights belong to the artist.</sub>
